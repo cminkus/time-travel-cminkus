@@ -1,2 +1,2 @@
 # Intro
-This time machine runs on vbucks.
+This time machine runs on coffee and vbucks.
